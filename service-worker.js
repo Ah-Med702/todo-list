@@ -5,7 +5,7 @@ const cacheName = "my-app-cache-v1";
 const filesToCache = [
     "/",
     "/index.html",
-    "/styles.css",
+    "/style.css",
     "/script.js",
     "/images/logo.png",
 ];
